@@ -27,9 +27,9 @@ I specialize in building scalable web applications, RESTful APIs, and microservi
 
 ---
 
-### 📊 GitHub Stats
-![Salis's GitHub stats](https://github-readme-stats.vercel.app/api?username=salisKingdoms&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salisKingdoms&layout=compact&theme=dark)
+### 📊 GitHub Overview
+![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
+![Main Stack](https://img.shields.io/badge/Main_Stack-C%23_%7C_Python_%7C_TS-blue?style=for-the-badge&logo=dotnet)
 
 ---
 
